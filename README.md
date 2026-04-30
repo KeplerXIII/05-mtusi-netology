@@ -1,4 +1,4 @@
-## Результаты тестирования моделей sentiment analysis
+## Результаты тестирования моделей `sentiment analysis`
 
 | Модель | Accuracy | Correct | Load time, sec | Total inference, sec | Avg inference, sec |
 |---|---:|---:|---:|---:|---:|
