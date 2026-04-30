@@ -23,7 +23,7 @@
 
 `nlptown/bert-base-multilingual-uncased-sentiment`
 
-## Результаты тестирования моделей NER
+## Результаты тестирования моделей `NER`
 | Модель                                    |     Recall |     Found | Load time, sec | Avg inference, sec |
 | ----------------------------------------- | ---------: | --------: | -------------: | -----------------: |
 | `Jean-Baptiste/roberta-large-ner-english` | **0.9600** | **24/25** |     **0.7470** |             0.0069 |
