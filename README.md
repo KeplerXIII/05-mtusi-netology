@@ -41,7 +41,7 @@
 
 `Davlan/xlm-roberta-base-ner-hrl`
 
-## Результаты тестирования модели ``DeepSeek Reasoner`
+## Результаты тестирования модели `DeepSeek Reasoner`
 
 | Задача                   |  Метрика |      Score |    Result | Total inference, sec | Avg inference, sec | Tokens |
 | ------------------------ | -------: | ---------: | --------: | -------------------: | -----------------: | -----: |
