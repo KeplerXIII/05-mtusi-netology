@@ -1,4 +1,4 @@
-## Результаты тестирования моделей sentiment analysis
+## Результаты тестирования моделей `sentiment analysis`
 
 | Модель | Accuracy | Correct | Load time, sec | Total inference, sec | Avg inference, sec |
 |---|---:|---:|---:|---:|---:|
@@ -23,7 +23,7 @@
 
 `nlptown/bert-base-multilingual-uncased-sentiment`
 
-## Результаты тестирования моделей NER
+## Результаты тестирования моделей `NER`
 | Модель                                    |     Recall |     Found | Load time, sec | Avg inference, sec |
 | ----------------------------------------- | ---------: | --------: | -------------: | -----------------: |
 | `Jean-Baptiste/roberta-large-ner-english` | **0.9600** | **24/25** |     **0.7470** |             0.0069 |
@@ -41,7 +41,7 @@
 
 `Davlan/xlm-roberta-base-ner-hrl`
 
-## Результаты тестирования модели ``DeepSeek Reasoner`
+## Результаты тестирования модели `DeepSeek Reasoner`
 
 | Задача                   |  Метрика |      Score |    Result | Total inference, sec | Avg inference, sec | Tokens |
 | ------------------------ | -------: | ---------: | --------: | -------------------: | -----------------: | -----: |
